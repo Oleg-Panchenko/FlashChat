@@ -25,6 +25,6 @@ If the user has difficulties with authentication part, app will tell what kind o
 <img width="300" src=https://user-images.githubusercontent.com/77533590/167499303-37b0baf0-3a20-4cf8-ad63-c3e006a5987b.png>  <img width="300" src=https://user-images.githubusercontent.com/77533590/167499318-dda67d11-6700-49a6-8757-467535ced33b.png>   
 
 # Chat Screen
-If the user is successfully logged in, he will see chat screen.
+If the user is successfully logged in, he will see the chat screen.
 
 <img width="300" src=https://user-images.githubusercontent.com/77533590/167500392-c645213d-89c1-4084-b3e4-e360d8688d9a.png> 
